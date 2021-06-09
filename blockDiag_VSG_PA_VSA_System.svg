@@ -1,0 +1,71 @@
+<svg viewBox="0 0 1216 280" xmlns="http://www.w3.org/2000/svg" xmlns:inkspace="http://www.inkscape.org/namespaces/inkscape" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs id="defs_block">
+    <filter height="1.504" id="filter_blur" inkspace:collect="always" width="1.1575" x="-0.07875" y="-0.252">
+      <feGaussianBlur id="feGaussianBlur3780" inkspace:collect="always" stdDeviation="4.2"></feGaussianBlur>
+    </filter>
+  </defs>
+  <title>blockdiag</title>
+  <desc></desc>
+  <rect fill="rgb(0,0,0)" height="40" stroke="rgb(0,0,0)" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="128" x="643" y="46"></rect>
+  <rect fill="rgb(0,0,0)" height="40" stroke="rgb(0,0,0)" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="128" x="67" y="46"></rect>
+  <rect fill="rgb(0,0,0)" height="40" stroke="rgb(0,0,0)" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="128" x="67" y="126"></rect>
+  <rect fill="rgb(0,0,0)" height="40" stroke="rgb(0,0,0)" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="128" x="259" y="46"></rect>
+  <rect fill="rgb(0,0,0)" height="40" stroke="rgb(0,0,0)" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="128" x="451" y="46"></rect>
+  <rect fill="rgb(0,0,0)" height="40" stroke="rgb(0,0,0)" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="128" x="67" y="206"></rect>
+  <rect fill="rgb(0,0,0)" height="40" stroke="rgb(0,0,0)" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="128" x="835" y="46"></rect>
+  <rect fill="rgb(0,0,0)" height="40" stroke="rgb(0,0,0)" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="128" x="1027" y="46"></rect>
+  <rect fill="rgb(0,0,0)" height="40" stroke="rgb(0,0,0)" style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" width="128" x="835" y="126"></rect>
+  <rect fill="rgb(136,136,136)" height="40" stroke="rgb(0,0,0)" width="128" x="640" y="40"></rect>
+  <text fill="rgb(255,255,255)" font-family="sans-serif" font-size="20" font-style="normal" font-weight="normal" text-anchor="middle" textLength="33" x="704.5" y="70">DUT</text>
+  <rect fill="rgb(255,255,255)" height="40" stroke="rgb(0,0,0)" width="128" x="64" y="40"></rect>
+  <image height="34" width="64" x="64" xlink:href="https://cdn.rohde-schwarz.com/pws/product/s_1/smw200a/SMW200A_front_stage_landscape.jpg" y="43"></image>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="20" font-style="normal" font-weight="normal" text-anchor="middle" textLength="44" x="160.0" y="70">VSG1</text>
+  <rect fill="rgb(255,255,255)" height="40" stroke="rgb(0,0,0)" width="128" x="64" y="120"></rect>
+  <image height="34" width="64" x="64" xlink:href="https://cdn.rohde-schwarz.com/pws/product/s_1/smw200a/SMW200A_front_stage_landscape.jpg" y="123"></image>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="20" font-style="normal" font-weight="normal" text-anchor="middle" textLength="44" x="160.0" y="150">VSG2</text>
+  <rect fill="rgb(255,255,255)" height="40" stroke="rgb(0,0,0)" width="128" x="256" y="40"></rect>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="20" font-style="normal" font-weight="normal" text-anchor="middle" textLength="88" x="320.0" y="70">Combiner</text>
+  <rect fill="rgb(255,255,255)" height="40" stroke="rgb(0,0,0)" width="128" x="448" y="40"></rect>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="20" font-style="normal" font-weight="normal" text-anchor="middle" textLength="88" x="512.0" y="70">CouplerS</text>
+  <rect fill="rgb(255,255,255)" height="40" stroke="rgb(0,0,0)" width="128" x="64" y="200"></rect>
+  <image height="34" width="64" x="64" xlink:href="https://cdn.rohde-schwarz.com/pws/product/n_1/nrpxxs_sn/NRP18S_front_stage_landscape.jpg" y="203"></image>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="20" font-style="normal" font-weight="normal" text-anchor="middle" textLength="44" x="160.0" y="230">PM-S</text>
+  <rect fill="rgb(255,255,255)" height="40" stroke="rgb(0,0,0)" width="128" x="832" y="40"></rect>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="20" font-style="normal" font-weight="normal" text-anchor="middle" textLength="88" x="896.0" y="70">CouplerM</text>
+  <rect fill="rgb(255,255,255)" height="40" stroke="rgb(0,0,0)" width="128" x="1024" y="40"></rect>
+  <image height="33" width="64" x="1024" xlink:href="https://cdn.rohde-schwarz.com/pws/product/f_1/fsw/FSW-Signal-Spectrum-Analyzer_2018_list_product_list.jpg" y="43"></image>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="20" font-style="normal" font-weight="normal" text-anchor="middle" textLength="33" x="1120.5" y="70">VSA</text>
+  <rect fill="rgb(255,255,255)" height="40" stroke="rgb(0,0,0)" width="128" x="832" y="120"></rect>
+  <image height="34" width="64" x="832" xlink:href="https://cdn.rohde-schwarz.com/pws/product/n_1/nrpxxs_sn/NRP18S_front_stage_landscape.jpg" y="123"></image>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="20" font-style="normal" font-weight="normal" text-anchor="middle" textLength="44" x="928.0" y="150">PM-M</text>
+  <path d="M 768 60 L 824 60" fill="none" stroke="rgb(0,0,0)"></path>
+  <polygon fill="rgb(0,0,0)" points="831,60 824,56 824,64 831,60" stroke="rgb(0,0,0)"></polygon>
+  <path d="M 192 60 L 248 60" fill="none" stroke="rgb(0,0,0)"></path>
+  <polygon fill="rgb(0,0,0)" points="255,60 248,56 248,64 255,60" stroke="rgb(0,0,0)"></polygon>
+  <path d="M 192 140 L 240 140" fill="none" stroke="rgb(0,0,0)"></path>
+  <path d="M 240 140 L 240 60" fill="none" stroke="rgb(0,0,0)"></path>
+  <path d="M 240 60 L 248 60" fill="none" stroke="rgb(0,0,0)"></path>
+  <polygon fill="rgb(0,0,0)" points="255,60 248,56 248,64 255,60" stroke="rgb(0,0,0)"></polygon>
+  <path d="M 384 60 L 440 60" fill="none" stroke="rgb(0,0,0)"></path>
+  <polygon fill="rgb(0,0,0)" points="447,60 440,56 440,64 447,60" stroke="rgb(0,0,0)"></polygon>
+  <path d="M 512 80 L 512 180" fill="none" stroke="rgb(0,0,0)"></path>
+  <path d="M 128 180 L 512 180" fill="none" stroke="rgb(0,0,0)"></path>
+  <path d="M 128 180 L 128 192" fill="none" stroke="rgb(0,0,0)"></path>
+  <polygon fill="rgb(0,0,0)" points="128,199 124,192 132,192 128,199" stroke="rgb(0,0,0)"></polygon>
+  <path d="M 576 60 L 632 60" fill="none" stroke="rgb(0,0,0)"></path>
+  <polygon fill="rgb(0,0,0)" points="639,60 632,56 632,64 639,60" stroke="rgb(0,0,0)"></polygon>
+  <path d="M 896 80 L 896 112" fill="none" stroke="rgb(0,0,0)"></path>
+  <polygon fill="rgb(0,0,0)" points="896,119 892,112 900,112 896,119" stroke="rgb(0,0,0)"></polygon>
+  <path d="M 960 60 L 1016 60" fill="none" stroke="rgb(0,0,0)"></path>
+  <polygon fill="rgb(0,0,0)" points="1023,60 1016,56 1016,64 1023,60" stroke="rgb(0,0,0)"></polygon>
+  <rect fill="white" height="0" stroke="rgb(0,0,0)" width="0" x="152" y="160"></rect>
+  <rect fill="white" height="20" stroke="rgb(0,0,0)" width="60" x="146" y="160"></rect>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="16" font-style="normal" font-weight="normal" text-anchor="middle" textLength="44" x="176.0" y="178">m ...</text>
+  <rect fill="white" height="0" stroke="rgb(0,0,0)" width="0" x="920" y="80"></rect>
+  <rect fill="white" height="20" stroke="rgb(0,0,0)" width="60" x="914" y="80"></rect>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="16" font-style="normal" font-weight="normal" text-anchor="middle" textLength="44" x="944.0" y="98">m ...</text>
+  <rect fill="none" height="220" stroke="rgb(0,159,255)" stroke-width="3" width="528" x="56" y="30"></rect>
+  <rect fill="none" height="140" stroke="rgb(0,159,255)" stroke-width="3" width="336" x="824" y="30"></rect>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="16" font-style="normal" font-weight="normal" text-anchor="middle" textLength="53" x="320.5" y="38">Source</text>
+  <text fill="rgb(0,0,0)" font-family="sans-serif" font-size="16" font-style="normal" font-weight="normal" text-anchor="middle" textLength="62" x="992.0" y="38">Measure</text>
+</svg>

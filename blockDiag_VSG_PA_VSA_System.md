@@ -1,6 +1,9 @@
-https://www.blockdiag-api.com/ui
-http://interactive.blockdiag.com/
+# Blockdiag Drawing
 
+[blockDiag-api](https://www.blockdiag-api.com/ui)
+[blockDiag](http://interactive.blockdiag.com/)
+
+```blockdiag
 blockdiag {
     // Global
     default_fontsize = 20;
@@ -36,3 +39,4 @@ blockdiag {
     CouplerM -> PM-M[label = "monitor", folded];
     CouplerM -> VSA;
 }
+```
