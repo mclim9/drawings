@@ -15,7 +15,6 @@ blockdiag {
     VSG2 [icon = "https://cdn.rohde-schwarz.com/pws/product/s_1/smw200a/SMW200A_front_stage_landscape.jpg"]
     PM-S [icon = 'https://cdn.rohde-schwarz.com/pws/product/n_1/nrpxxs_sn/NRP18S_front_stage_landscape.jpg']
     PM-M [icon = 'https://cdn.rohde-schwarz.com/pws/product/n_1/nrpxxs_sn/NRP18S_front_stage_landscape.jpg']
-
     
     // Groups
     group{
