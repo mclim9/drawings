@@ -1,0 +1,6 @@
+
+automation  -> VISA [label = "SCPI Query"];
+VISA -> LAN [label = "Convert SCPI to LAN"];
+LAN --> Instrument;
+Instrument --> LAN;  VISA <- LAN [label = "Convert LAN to SCPI"];
+automation <- VISA [label = "SCPI Response"];
